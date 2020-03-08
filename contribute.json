@@ -1,0 +1,45 @@
+{
+    "name": "Kuma",
+    "description": "The app powering MDN Web Docs.",
+    "repository": {
+        "url": "https://github.com/mdn/kuma",
+        "license": "MPL2",
+        "tests": "https://travis-ci.com/mdn/kuma"
+    },
+    "participate": {
+        "home": "https://wiki.mozilla.org/MDN",
+        "docs": "https://kuma.readthedocs.io/",
+        "mailing-list": "https://discourse.mozilla.org/c/mdn",
+        "irc": "irc://irc.mozilla.org/#mdndev",
+        "irc-contacts": [
+            "djf",
+            "espressive",
+            "jwhitlock",
+            "peterbe",
+            "rjohnson"
+        ]
+    },
+    "bugs": {
+        "list": "https://mzl.la/2onLvZ8",
+        "report": "https://github.com/mdn/kuma/issues/new",
+        "mentored": "https://mzl.la/2BFx4Ie",
+        "goodfirstbug": "https://mzl.la/2ojEGaW"
+    },
+    "urls": {
+        "prod": "https://developer.mozilla.org/",
+        "stage": "https://developer.allizom.org/"
+    },
+    "keywords": [
+        "python",
+        "node.js",
+        "sass",
+        "django",
+        "html5",
+        "jquery",
+        "react",
+        "ckeditor",
+        "docker",
+        "mysql",
+        "elasticsearch"
+    ]
+}
